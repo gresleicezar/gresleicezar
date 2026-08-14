@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Cezar 👋
 
-<!--
-**gresleicezar/gresleicezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web
 
-Here are some ideas to get you started:
+Desenvolvo sites institucionais, landing pages e aplicações web para empresas e negócios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+React • TypeScript • JavaScript • Vite • Tailwind CSS
+
+Supabase • PostgreSQL • Vercel • Git • GitHub
+
+## 💼 O que desenvolvo
+
+- Sites institucionais
+- Landing Pages
+- Sistemas Web
+- Dashboards
+- Integrações com APIs
+- Formulários e captação de leads
+- Sistemas administrativos
+
+## ⭐ Projeto em destaque
+
+### 📦 VAIDEBOX
+
+Site institucional desenvolvido utilizando React, TypeScript, Vite e Tailwind CSS.
+
+Funcionalidades:
+
+- Site responsivo
+- Catálogo de produtos
+- Solicitação de orçamento
+- Integração com WhatsApp
+- Integração com e-commerce
+- Programa Empreenda Box
+- Captação de leads
+- Vercel Functions
+- Envio automático de e-mails
+- Deploy com GitHub + Vercel
+
+🌐 Site:
+https://personalizados.vaidebox.com.br
