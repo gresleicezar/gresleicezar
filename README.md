@@ -147,6 +147,7 @@ Tecnologias:
 Estou desenvolvendo projetos web e ampliando meu portfólio com soluções voltadas para empresas e negócios.
 
 💼 **LinkedIn:** https://www.linkedin.com/in/gresleiandrade/
+
 🌐 **Projeto VAIDEBOX:** https://personalizados.vaidebox.com.br
 
 ---
