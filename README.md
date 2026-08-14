@@ -1,13 +1,40 @@
 # 👋 Olá! Eu sou Greslei Cezar
 
-### 💻 Desenvolvedor Web | Sites • Landing Pages • Sistemas Web
+### 💻 Analista de Sistemas & Desenvolvedor Web
 
-Desenvolvo soluções web focadas em transformar ideias e necessidades de negócios em aplicações modernas, responsivas e funcionais.
+Analista de Sistemas com experiência na análise de necessidades, regras de negócio e desenvolvimento de novas ferramentas e produtos alinhados às necessidades dos clientes.
 
-Atualmente trabalho com desenvolvimento de **sites institucionais, landing pages, sistemas web e integrações**, utilizando tecnologias modernas de frontend, backend e cloud.
+Possuo ampla vivência no atendimento ao usuário final e conhecimento das regras de negócio dos segmentos de **Varejo, Farmácias e Comércio em geral**, acompanhando processos e buscando transformar necessidades reais em soluções tecnológicas.
+
+Atualmente também desenvolvo **sistemas web, sites institucionais e landing pages**, combinando minha experiência em análise de sistemas e processos de negócio com tecnologias modernas de desenvolvimento.
+
+> 🎯 **Meu objetivo:** transformar problemas e necessidades de negócios em soluções digitais simples, eficientes e funcionais.
 
 ---
 
+## 🧠 Análise de Sistemas & Negócios
+
+- Levantamento e análise de requisitos
+- Regras de negócio
+- Atendimento ao usuário
+- Análise e resolução de problemas
+- Processos de Varejo e Comércio
+- Processos de Farmácias
+- Integrações entre sistemas
+- APIs e E-commerce
+- Desenvolvimento de novas ferramentas e produtos
+
+## 💻 Desenvolvimento Web
+
+- Sistemas Web
+- Sites Institucionais
+- Landing Pages
+- Dashboards
+- Painéis Administrativos
+- APIs e Integrações
+- Formulários e Captação de Leads
+- Automações para negócios
+  
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
@@ -114,10 +141,6 @@ Tecnologias:
 
 ---
 
-## 📊 GitHub
-
-
----
 
 ## 📫 Vamos conversar?
 
