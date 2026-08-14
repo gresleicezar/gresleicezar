@@ -152,4 +152,4 @@ Estou desenvolvendo projetos web e ampliando meu portfólio com soluções volta
 
 ---
 
-### 🚀 Transformando necessidades de negócios em soluções web.
+### 🚀 Unindo análise de negócios e desenvolvimento para transformar necessidades em soluções digitais.
