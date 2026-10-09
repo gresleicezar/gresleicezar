@@ -97,6 +97,7 @@ Projeto real desenvolvido para apresentar produtos personalizados da VAIDEBOX e 
 ### 🌐 Projeto em produção
 
 👉 **https://personalizados.vaidebox.com.br**
+👉 **https://natalespecial.vaidebox.com.br/**
 
 ---
 
